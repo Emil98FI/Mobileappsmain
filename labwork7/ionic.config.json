@@ -1,5 +1,7 @@
 {
   "name": "labwork7",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
